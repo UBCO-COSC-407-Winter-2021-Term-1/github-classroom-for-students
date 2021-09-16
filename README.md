@@ -15,7 +15,7 @@ This is a guide for students to setup Git and GitHub for use with GitHub Classro
 
 ### Steps for downloading and editing assignments from GitHub Classroom
 
-1.  Have a folder specifically for your class (call it something like classroom-COSC360-Winter-2017). Within this folder, I would recommend a folder titled lectures (this can be pulled from the organization--we will show you how to do this as it will be used to distribute sample code), as well a folder title labs.
+1.  Have a folder specifically for your class (call it something like classroom-COSC407-Winter-2021). Within this folder, I would recommend a folder titled lectures (this can be pulled from the organization--we will show you how to do this as it will be used to distribute sample code), as well a folder title labs.
 
     Note you can do this as you normally would with pointing and clicking, but you can also use the shell! This is good practice if you want to use Git outside of the class, as you normally have to use the Shell to interact with Git. Sean Kross has a great guide for using the shell here--http://seankross.com/the-unix-workbench/. However, we'll show you the basic steps you need.
 
